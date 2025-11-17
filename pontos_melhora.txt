@@ -2,6 +2,10 @@
 - Especificar minha participação nos Projetos citados
 - Melhorar meus objetivos e Apresentação pessoal
 - Adicionar Certificados PDF no site
-- Fotos em Eventos Profissionais/Educacionais que participou
 
 
+- Ícones das Ferramentas -> Fundo Preto, borda clara (com hover) -> Imagem em cima, nome em baixo
+- Card do Projeto com Imagem, Link do projeto e github
+- Criar Currículo PDF e colocar link baixável
+- Colocar meios de contato logo no início, abaixo do resumo
+- Onde estiver Atual, em desenvolvimento, colocar a 'bolinha piscando' referente
